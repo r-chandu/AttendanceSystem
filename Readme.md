@@ -26,3 +26,14 @@ This is a 10-part code-along project to build a console-based school attendance 
 1. Navigate to the project root directory.
 2. Compile: `javac src/com/school/*.java`
 3. Run: `java -cp src com.school.Main`
+
+## Part 3: Constructor Initialization & Auto-ID Generation
+- Implemented parameterized constructors in `Student` and `Course` classes.
+- Used `private static` variables for auto-generating unique IDs.
+- `courseId` updated to `int` and displayed with a "C" prefix.
+- Demonstrated object creation using constructors in `Main.java`.
+
+### How to Run
+1. Navigate to the root directory.
+2. Compile: `javac src/com/school/*.java`
+3. Run: `java -cp src com.school.Main`
